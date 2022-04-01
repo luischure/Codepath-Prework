@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif![Codepath Game GIf](https://user-images.githubusercontent.com/102558066/161175232-2151d492-e840-4f2c-8a70-bd6511b1d7cb.gif)
-1-link-here)
+[Codepath Game GIf](https://user-images.githubusercontent.com/102558066/161175232-2151d492-e840-4f2c-8a70-bd6511b1d7cb.gif)
+
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
