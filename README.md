@@ -70,7 +70,8 @@ If I had a few more hours to work on this project I would focus on the sequence 
 
 [My 5-minute Interview Recording](
 
-https://user-images.githubusercontent.com/102558066/161196839-77aac7f2-2104-4c58-b9ad-c2b1a0eedb4d.mp4
+
+https://user-images.githubusercontent.com/102558066/161360526-2c94c369-0b83-4c24-9a3f-e349581e465e.mp4
 
  ) 
 
